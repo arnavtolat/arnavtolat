@@ -27,6 +27,5 @@ I have worked extensively with Java, Python, VHDL, Matlab, C, R and Stata. Withi
  
 📫 arnav.a.tolat.23@dartmouth.edu
 
-https://y.at/🎧👟🗽🗺️
 </a>
 </p>
