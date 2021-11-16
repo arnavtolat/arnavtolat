@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Arnav Tolat, and I am a junior at Dartmouth College pursuing a double-major in computer science and quantiative social science. In the classroom, I've taken courses including Data Structures and Algorithms, Machine Learning and Statistical Data Analysis, Discrete Mathematics, Digital Electronics, and Multivariable Calculus. Outside of the classroom, you can find me swimming in the Connecticut River, attending a leadership meeting for the Dartmouth Investment and Philanthropy Program, or DJing my radio show on wDCR. I'm passionate about using technology and data to better understand people and creating products which drive value in people's lives. 
+My name is Arnav Tolat, and I am a junior at Dartmouth College pursuing a double-major in computer science and quantiative social science. In the classroom, I've taken courses including Data Structures and Algorithms, Machine Learning and Statistical Data Analysis, Discrete Mathematics, Digital Electronics, and Multivariable Calculus. Outside of the classroom, you can find me swimming in the Connecticut River, attending a leadership meeting for the Dartmouth Investment and Philanthropy Program, or DJing my radio show on wDCR. I'm passionate about using technology and data to better understand and deliver value for people.
 
 ### Technical Skills
 I have worked extensively with Java, Python, VHDL, Matlab, R and Stata. Within Python, I have experience with NumPy, pandas, Scikit-learn, Matplotlib, pymc3, Statsmodels, and NLTK. I also have experience with Photoshop, Excel and Figma. 
