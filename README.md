@@ -27,8 +27,8 @@ I have worked extensively within the Java, Python, VHDL, Matlab, R and Stata lan
 <a href="https://www.linkedin.com/in/tolat">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
  
-<a href="https://www.linkedin.com/in/tolat">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=brightgreen">
-  
+📫 arnav.a.tolat.23@dartmouth.edu
+
+https://y.at/🎧👟🗽🗺️
 </a>
 </p>
