@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋
 
 <!--
 **arnavtolat/arnavtolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hey There!
 
 My name is Arnav Tolat, and I am a junior at Dartmouth College pursuing a double-major in computer science and quantiative social science. In the classroom, I've taken courses including Data Structures and Algorithms, Machine Learning and Statistical Data Analysis, Discrete Mathematics, Digital Electronics, and Multivariable Calculus. Outside of the classroom, you can find me swimming in the Connecticut River, attending a leadership meeting for the Dartmouth Investment and Philanthropy Program, or biking across campus. I'm passionate about using technology and data to better understand people and creating products which drive value in people's lives. 
 
