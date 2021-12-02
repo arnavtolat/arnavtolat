@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 My name is Arnav Tolat, and I am a junior at Dartmouth College pursuing a double major in computer science and mathematical data science. In the classroom, I've taken courses including Data Structures and Algorithms, Machine Learning and Statistical Data Analysis, Discrete Mathematics, Digital Electronics, and Multivariable Calculus. Outside of the classroom, I can be found swimming in the Connecticut River, attending a leadership meeting for the Dartmouth Investment and Philanthropy Program, or DJing my radio show on wDCR. I'm passionate about using technology and understanding data to deliver value for people.
+ -->
 
 <!--
 ### Technical Skills :hammer:
