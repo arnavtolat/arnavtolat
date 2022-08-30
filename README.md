@@ -58,7 +58,7 @@ Most of my projects are in private repos, so if you're interested in seeing them
 | ------- | --- | --- |
 | Java | Backend system for non-volatile storage of live risk and market data from a variety of sources at custom points in time, developed during an internship at a hedge fund | 283 |
 | Python | 301 | 283 |
- | Seconds | 301 | 283 |
+ | SQL | Architecting and implementing custom database architectures for data persistence, error handling, and caching during an internship at a hedge fund | 283 |
  | Seconds | 301 | 283 |
  | Seconds | 301 | 283 |
  | Seconds | 301 | 283 |
