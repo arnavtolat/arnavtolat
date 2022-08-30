@@ -5,6 +5,20 @@
 <!--
 **arnavtolat/arnavtolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
+
+I'm Ethan, a computer science student at Dartmouth College in Hanover, NH. I am originally from the D.C. area.
+
+I am interested in programming, music, and gaming. In my studies, I am looking to learn more about machine learning, A.I., and web development.
+
+### Note on Projects
+
+I have privated those repositories that contain school projects so as to adhere to academic policies.
+
+Among the private projects in my repositories are the: Tiny Search Engine, Collaborative Painting, POS Tagger, and Dartmouth Pathfinding.
+
+To access private school projects, please [send me an email](mailto:ethanjthomas727@gmail.com) with your github profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,13 +40,15 @@ My name is Arnav Tolat, and I am a junior at Dartmouth College pursuing a double
 I have worked extensively with Java, Python, VHDL, Matlab, C, R and Stata. Within Python, I have experience with the NumPy, pandas, Scikit-learn, Matplotlib, pymc3, Statsmodels, and NLTK libraries. I also have experience with LaTeX, Photoshop, Excel and Figma. 
  -->
  
+I'm Arnav, an undergraduate at Dartmouth College interested in Computer Science, Economics, and Statistics. 
 
-## Contact me via Linkedin or email!
+Most of my projects are in private repos, so if you're interested in seeing them, please reach out via LinkedIn or email! 
+
 <p align="left">
 <a href="https://www.linkedin.com/in/tolat">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 
-📫 arnav.23@dartmouth.edu
+📫 arnav.23@dartmouth.edu or arnavtolat@gmail.com
 
 </a>
 </p>
