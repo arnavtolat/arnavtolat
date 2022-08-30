@@ -53,6 +53,11 @@ Most of my projects are in private repos, so if you're interested in seeing them
 📫 arnav.23@dartmouth.edu or arnavtolat@gmail.com
 
 #### Technical Skills 
+ 
+ | Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
+ 
 * Java
  -- dd --
 </a>
