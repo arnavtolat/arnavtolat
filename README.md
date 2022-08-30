@@ -52,5 +52,6 @@ Most of my projects are in private repos, so if you're interested in seeing them
 
 📫 arnav.23@dartmouth.edu or arnavtolat@gmail.com
 
+### Technical Skills 
 </a>
 </p>
