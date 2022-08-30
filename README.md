@@ -54,10 +54,16 @@ Most of my projects are in private repos, so if you're interested in seeing them
 
 #### Technical Skills 
  
- | Attempt | #1  | #2  |
+ | Skill | Highlighted Project  | Familiarity  |
 | ------- | --- | --- |
 | Seconds | 301 | 283 |
- 
+| Seconds | 301 | 283 |
+ | Seconds | 301 | 283 |
+ | Seconds | 301 | 283 |
+ | Seconds | 301 | 283 |
+ | Seconds | 301 | 283 |
+ | Seconds | 301 | 283 |
+ | Seconds | 301 | 283 |
 * Java
  -- dd --
 </a>
