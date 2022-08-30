@@ -1,3 +1,4 @@
+
 <!--
 ### Hey there! 👋
 
@@ -25,12 +26,12 @@ My name is Arnav Tolat, and I am a junior at Dartmouth College pursuing a double
 I have worked extensively with Java, Python, VHDL, Matlab, C, R and Stata. Within Python, I have experience with the NumPy, pandas, Scikit-learn, Matplotlib, pymc3, Statsmodels, and NLTK libraries. I also have experience with LaTeX, Photoshop, Excel and Figma. 
  -->
  
-<!--
+
 ### Let's connect :handshake:
 <p align="left">
 <a href="https://www.linkedin.com/in/tolat">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
-  -->
+
 📫 arnav.23@dartmouth.edu
 
 </a>
