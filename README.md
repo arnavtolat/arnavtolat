@@ -56,7 +56,7 @@ Most of my projects are in private repos, so if you're interested in seeing them
  
  | Skill | Highlighted Project  | Familiarity  |
 | ------- | --- | --- |
-| Java | *Backend system for non-volatile storage of live risk and market data from a variety of sources at custom points in time, developed during an internship at a hedge fund * water | 283 |
+| Java | * Backend system for non-volatile storage of live risk and market data from a variety of sources at custom points in time, developed during an internship at a hedge fund * water | 283 |
 | Python | Project finding the shortest path around Dartmouth's campus through ump | 283 |
  | SQL/Databases | Architecting and implementing custom database architectures for data persistence, error handling, and caching during an internship at a hedge fund, allowing easy lookup and | 283 |
  | Seconds | 301 | 283 |
