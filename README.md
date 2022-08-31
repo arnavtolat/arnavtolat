@@ -37,7 +37,12 @@ Most of my projects are in private repos, so if you're interested in seeing them
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 
 📫 arnav.23@dartmouth.edu or arnavtolat@gmail.com
-
+Feel free to contact me :yum:
+<br><br>
+[<img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea">](https://t.me/moepoi)
+[<img src="https://img.shields.io/badge/LinkedIn-moepoi-informational">](https://linkedin.com/in/moepoi)
+[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:moe@chocola.dev)
+[<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://moepoi.dev)
 #### Technical Skills 
  
  | Skill | Selected Projects  | 
