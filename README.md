@@ -43,10 +43,9 @@ Most of my projects are in private repos, so if you're interested in seeing them
  | Skill | Selected Projects  | Familiarity  |
 | ------- | --- | --- |
 | Java | * Backend system for non-volatile storage of live risk and market data from a variety of sources at custom points in time, developed during an internship at a hedge fund * water | 283 |
-| Python | Project finding the shortest path around Dartmouth's campus through ump | 283 |
+| Python | <ul><li>A variety of statistical analyses using NumPy, pandas, matplotlib, statsmodels and more, including of financial data, racial bias in sentencing, student habits at Dartmouth, and trends in lyrical complexity. Jupyter Notebooks are my go-to for data analyses!</li><li>An ETL pipleine for alternative data built using Python and Apache ETL tools</li><li>Project finding the shortest path around Dartmouth's campus through implementing Djikstra's algorithm </li></ul> | 283 |
  | SQL/Databases | Architecting and implementing custom database architectures for data persistence, error handling, and caching during an internship at a hedge fund, allowing easy lookup and | 283 |
- | <ul><li>A variety of statistical analyses using NumPy, pandas, matplotlib, statsmodels and more, including of financial data, racial bias in sentencing, student habits at Dartmouth, and trends in lyrical complexity</li><li>An ETL pipleine for alternative data built using Python and Apache ETL tools
-</li><li>Project finding the shortest path around Dartmouth's campus through implementing Djikstra's algorithm 
+ | <ul><li>A variety of statistical analyses using NumPy, pandas, matplotlib, statsmodels and more, including of financial data, racial bias in sentencing, student habits at Dartmouth, and trends in lyrical complexity. Jupyter Notebooks are my go-to for data analyses!</li><li>An ETL pipleine for alternative data built using Python and Apache ETL tools</li><li>Project finding the shortest path around Dartmouth's campus through implementing Djikstra's algorithm </li></ul>
 </li><li>item2</li><li>item2</li></ul> | 301 | 283 |
  | Seconds | 301 | 283 |
  | Seconds | 301 | 283 |
