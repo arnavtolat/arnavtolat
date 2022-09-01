@@ -37,6 +37,9 @@ Most of my projects are in private repos, so if you're interested in seeing them
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 
 📫 arnav.23@dartmouth.edu or arnavtolat@gmail.com
+
+<!--
+
 Feel free to contact me :yum:
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea">](https://t.me/moepoi)
@@ -65,3 +68,5 @@ Feel free to contact me :yum:
 A variety of statistical analyses using NumPy, pandas, matplotlib, statsmodels and more, including of financial data, racial bias in sentencing, student habits at Dartmouth, and trends in lyrical complexity
 An ETL pipleine for alternative data built using Python and Apache ETL tools
 Project finding the shortest path around Dartmouth's campus through implementing Djikstra's algorithm 
+
+-->
