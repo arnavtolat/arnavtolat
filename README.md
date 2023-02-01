@@ -1,5 +1,5 @@
 
-<!--
+<!-- 
 ### Hey there! 👋
 
 <!--
@@ -24,7 +24,7 @@ My name is Arnav Tolat, and I am a junior at Dartmouth College pursuing a double
 <!--
 ### Technical Skills :hammer:
 I have worked extensively with Java, Python, VHDL, Matlab, C, R and Stata. Within Python, I have experience with the NumPy, pandas, Scikit-learn, Matplotlib, pymc3, Statsmodels, and NLTK libraries. I also have experience with LaTeX, Photoshop, Excel and Figma. 
- -->
+ --><!--
  
 ### Hey! I'm Arnav, a student at [Dartmouth](https://en.wikipedia.org/wiki/Dartmouth_College) interested in Computer Science, Economics, and Statistics.
 
