@@ -1,4 +1,3 @@
-⌐◨-◨
 todo: 
 - get bloomberg treasury bval data for all of 2019 and 2020 (2019_2020_TSY.xlsx should be full w/ BVAL)
 - run the excel formula by levin - =BDH(G5&" CORP","PX_LAST",A5,A5,"PRICING_SOURCE=BVAL")
