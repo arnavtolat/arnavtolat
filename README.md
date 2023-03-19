@@ -1,10 +1,20 @@
-todo: 
-- get bloomberg treasury bval data for all of 2019 and 2020 (2019_2020_TSY.xlsx should be full w/ BVAL)
-- run the excel formula by levin - =BDH(G5&" CORP","PX_LAST",A5,A5,"PRICING_SOURCE=BVAL")
-
-| Trade date  | Settlement date | Transaction category | Trade amount (in millions, USD) | Issuer | Security description | CUSIP     | BVAL PRICE  | FED Purchase Price | Accrued interest (in dollars, USD) | Total amount transferred (in millions, USD) | Counterparty               |
-|-------------|-----------------|----------------------|---------------------------------|--------|----------------------|-----------|-------------|--------------------|------------------------------------|---------------------------------------------|----------------------------|
-| Apr 01 2020 | Apr 02 2020     | Purchase             | 50                              | TSY    | TN 01.625 02/15/26   | 912828P46 | 106.8046875 | 106.73046875       | 104910.71                          | 53.47014509                                 | HSBC Securities (USA) Inc. |
+         g@@@@@@@@@@@@@@@@@@@@@@@@b_          
+        0@@@@@@@@@@@@@@@@@@@@@@@@@@@k        
+        0@@@@@@@@@@@@@^^#@@@@@@@@@@@@L        
+         #@@@@@@@@@@"   J@@@@@@@@@@@@@        
+                       J@@@@@@@@@@@@@@b      
+                      d@@@@@##@@@@@@@@@L      
+                     d@@@@#   ^@@@@@@@@Q      
+                    d@@@@@@r    #@@@@@@@|
+                   d@@@@@@@|     #@@@@@@@r    
+                  0@@@@@@@P       0@@@@@@%    
+                 0@@@@P            0@@@@@@L  
+                0@@@@^              0@@@@@@  
+               #@@@F                 0@@@@@b  
+               1@@@^                  `@@@@@L 
+                                       ^@@@@@ 
+                                        ^@@@@|
+                                          ##P
 
 <!-- 
 ### Hey there! 👋
