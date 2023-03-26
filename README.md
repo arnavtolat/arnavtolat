@@ -9,8 +9,8 @@ Most of my projects are in private repos, so if you're interested in seeing them
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 
 📫 arnav.23@dartmouth.edu
-				<!-- 
-	
+			
+		<!-- 
 		g@@@@@@@@@@@@@@@@@@@@@@@@b_                           
                0@@@@@@@@@@@@@@@@@@@@@@@@@@@k        
                0@@@@@@@@@@@@@^^#@@@@@@@@@@@@L        
@@ -28,7 +28,8 @@ Most of my projects are in private repos, so if you're interested in seeing them
                                               ^@@@@@ 
                                                ^@@@@|
                                                  ##P.              
---><!-- 
+-->
+	<!-- 
 ### Hey there! 👋
 
 <!--
@@ -98,4 +99,21 @@ A variety of statistical analyses using NumPy, pandas, matplotlib, statsmodels a
 An ETL pipleine for alternative data built using Python and Apache ETL tools
 Project finding the shortest path around Dartmouth's campus through implementing Djikstra's algorithm 
 
+		g@@@@@@@@@@@@@@@@@@@@@@@@b_                           
+               0@@@@@@@@@@@@@@@@@@@@@@@@@@@k        
+               0@@@@@@@@@@@@@^^#@@@@@@@@@@@@L        
+                #@@@@@@@@@@"   J@@@@@@@@@@@@@        
+                              J@@@@@@@@@@@@@@b      
+                             d@@@@@##@@@@@@@@@L      
+                            d@@@@#   ^@@@@@@@@Q      
+                           d@@@@@@r    #@@@@@@@|
+                          d@@@@@@@|     #@@@@@@@r    
+                         0@@@@@@@P       0@@@@@@%    
+                        0@@@@P            0@@@@@@L  
+                       0@@@@^              0@@@@@@  
+                      #@@@F                 0@@@@@b  
+                      1@@@^                  `@@@@@L 
+                                              ^@@@@@ 
+                                               ^@@@@|
+                                                 ##P. 
 -->
