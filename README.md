@@ -30,8 +30,7 @@ Most of my projects are in private repos, so if you're interested in seeing them
                                                ^@@@@|
                                                  ##P.              
 -->
-	<!-- 
-### Hey there! 👋
+	
 
 <!--
 **arnavtolat/arnavtolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
