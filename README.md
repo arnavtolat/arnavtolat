@@ -10,7 +10,8 @@ Most of my projects are in private repos, so if you're interested in seeing them
 
 📫 arnav.23@dartmouth.edu
 			
-		<!-- 
+<!-- 
+
 		g@@@@@@@@@@@@@@@@@@@@@@@@b_                           
                0@@@@@@@@@@@@@@@@@@@@@@@@@@@k        
                0@@@@@@@@@@@@@^^#@@@@@@@@@@@@L        
