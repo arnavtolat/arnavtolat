@@ -1,4 +1,17 @@
-                g@@@@@@@@@@@@@@@@@@@@@@@@b_                           
+### Hey! I'm Arnav, a student at [Dartmouth](https://en.wikipedia.org/wiki/Dartmouth_College) interested in Computer Science, Economics, and Statistics.
+
+On campus, I'm pursuing a double major in Computer Science and Mathematical Data Science while TAing courses in computer science and mathematics and leading organizations including the [Dartmouth Investment and Philanthropy Program](https://dippnh.org), [The Dartmouth](https://www.thedartmouth.com), and the Dartmouth Emerging Markets Group. In my free time, I enjoy hiking, DJing a radio show, and playing chess. 
+
+Most of my projects are in private repos, so if you're interested in seeing them, please reach out via LinkedIn or email! 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tolat">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
+
+📫 arnav.23@dartmouth.edu
+				<!-- 
+				
+				 				g@@@@@@@@@@@@@@@@@@@@@@@@b_                           
                0@@@@@@@@@@@@@@@@@@@@@@@@@@@k        
                0@@@@@@@@@@@@@^^#@@@@@@@@@@@@L        
                 #@@@@@@@@@@"   J@@@@@@@@@@@@@        
